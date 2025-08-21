@@ -1,0 +1,48 @@
+body{
+    background: #1F2039;
+    color:white;
+}
+#links{
+    color: white;
+    font-size: 1em;
+    font-family: "Chela One";
+    text-decoration: none;
+    background: linear-gradient(90deg,#8E86B5,#ACAEED);
+}
+em{
+    color: #A5B4FC;
+}
+
+h1{
+    font-size: 3em;
+    color: #A5B4FC;
+    font-family: "Permanent Marker";
+
+}
+h2{
+    color: #F9F8FF;
+
+}
+p{
+    font-family: "Chela One";
+    font-size: 1em;
+    color: #F9F8FF;
+}
+ul{
+    font-size: 1em;
+    font-family: "Chela One";
+}
+div{
+    background: white;
+    color: #242424;
+}
+.permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.chela-one-regular {
+    font-family: "Chela One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
